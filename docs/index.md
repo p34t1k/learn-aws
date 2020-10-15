@@ -1,32 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Learn AWS Page
 
-You can use the [editor on GitHub](https://github.com/jassics/learn-aws/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This page contains all the essential information that you should be knowing to excel in AWS. It is targeted for Developers, Cloud Admin, Cloud Practitioner or anyone who wants to understand AWS with minimal effort. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will have demo or practical based approach to show you how AWS services work. So you should have AWS account, at leaset free tier active account.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### I will update the content here time to time.
 
 ### Jekyll Themes
 
